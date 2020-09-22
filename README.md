@@ -21,3 +21,4 @@
 [奇摩](http://tw.yahoo.com)
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[![文茜的世界周報](https://img.youtube.com/vi/MrRMRUe3oBw/0.jpg)](https://www.youtube.com/watch?v=MrRMRUe3oBw "20200920")
