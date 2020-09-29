@@ -12,6 +12,16 @@ _italic_
 
 __bold__
 
+* item a
+* item b
+  * item b1 
+  * item b2
+  
+1. item a
+2. item b
+   1. item b1
+   2. item b2  
+
 ```
 隨著第二波疫情愈演愈烈，英國21日將防疫警報等級提高到五級中的第四級，
 稱病毒正在國內廣泛傳播且傳染率高。
