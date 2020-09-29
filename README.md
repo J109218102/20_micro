@@ -19,8 +19,11 @@ __bold__
   
 1. item a
 2. item b
-   1. item b1
-   2. item b2  
+   * item b1
+   * item b2  
+   
+   
+   ![學校的LOGO](logo.png "高科大")
 
 ```
 隨著第二波疫情愈演愈烈，英國21日將防疫警報等級提高到五級中的第四級，
