@@ -35,7 +35,15 @@ __bold__
    print("Hello, World!")
    ```
    
-   
+ :+1:
+ 
+ :sunny:
+ 
+ :smile:
+ 
+ |First | Second | Third| 
+ |:-----|:-----:|-----:|
+ | number123456 | number123456 | number123456 |
 
 ```
 隨著第二波疫情愈演愈烈，英國21日將防疫警報等級提高到五級中的第四級，
