@@ -63,3 +63,10 @@ __bold__
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 [![文茜的世界周報](https://img.youtube.com/vi/MrRMRUe3oBw/0.jpg)](https://www.youtube.com/watch?v=MrRMRUe3oBw "20200920")
+
+## 待辦清單
+- [ ] 待辦
+  - [x] 買些沙拉
+  - [ ] 刷牙
+  - [x] 喝水
+
